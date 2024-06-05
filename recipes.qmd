@@ -3,28 +3,8 @@ title: "Recipe"
 author: "Stella F."
 format: html
 editor: visual
+theme: quartz 
 ---
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed). \# Recipes Repository
 
 Welcome to the Recipes Repository! This repository contains a collection of delicious recipes. Stay tuned for more updates!
 
@@ -32,23 +12,23 @@ Welcome to the Recipes Repository! This repository contains a collection of deli
 
 **Zutaten**
 
-* 1 Zitrone
-+ 250 g SANELLA (zimmerwarm)
-+ 150 g Zucker
-+ 1 Päckchen Vanillezucker
-+ 4 Eier
-+ 300 g Mehl
-+ 1 Päckchen Backpulver
-+ 1 Prise Jodsalz
-+ 75 ml Milch
-+ 200 g Puderzucker
+-   1 Zitrone
+-   250 g SANELLA (zimmerwarm)
+-   150 g Zucker
+-   1 Päckchen Vanillezucker
+-   4 Eier
+-   300 g Mehl
+-   1 Päckchen Backpulver
+-   1 Prise Jodsalz
+-   75 ml Milch
+-   200 g Puderzucker
 
 **Zubereitung**
 
-1. Backofen auf 180 °C (Umluft: 160 °C) vorheizen. Kastenform fetten und mit Mehl bestäuben. 1 Zitrone heiß abspülen und trocken tupfen. Die Schale fein abreiben und den Saft auspressen.
+1.  Backofen auf 180 °C (Umluft: 160 °C) vorheizen. Kastenform fetten und mit Mehl bestäuben. 1 Zitrone heiß abspülen und trocken tupfen. Die Schale fein abreiben und den Saft auspressen.
 
-2. 250 g Sanella, 150 g Zucker und Vanillezucker mit den Quirlen des elektrischen Handrührers zu einer hellen Masse schlagen. 4 Eier nacheinander unterschlagen. Zitronenabrieb und die Hälfte des Zitronensafts unterrühren, der restliche Saft wird für die Glasur benötigt.
+2.  250 g Sanella, 150 g Zucker und Vanillezucker mit den Quirlen des elektrischen Handrührers zu einer hellen Masse schlagen. 4 Eier nacheinander unterschlagen. Zitronenabrieb und die Hälfte des Zitronensafts unterrühren, der restliche Saft wird für die Glasur benötigt.
 
-3. 300 g Mehl, Backpulver und 1 Prise Salz gründlich vermischen und im Wechsel mit 75 Milch unter den Teig rühren. Teig in die vorbereitete Kastenform füllen und den Zitronenkuchen im vorgeheizten Ofen ca. 50 Minuten backen. Ca. 15 Minuten abkühlen lassen und aus der Form lösen.
+3.  300 g Mehl, Backpulver und 1 Prise Salz gründlich vermischen und im Wechsel mit 75 Milch unter den Teig rühren. Teig in die vorbereitete Kastenform füllen und den Zitronenkuchen im vorgeheizten Ofen ca. 50 Minuten backen. Ca. 15 Minuten abkühlen lassen und aus der Form lösen.
 
-4. Für die Glasur 2-3 EL Zitronensaft und 200 g Puderzucker zu einer dicken, glatten Masse verrühren und über den Zitronenkuchen verteilen - fertig ist ein saftiger Zitronenkuchen für die Kastenform.
+4.  Für die Glasur 2-3 EL Zitronensaft und 200 g Puderzucker zu einer dicken, glatten Masse verrühren und über den Zitronenkuchen verteilen - fertig ist ein saftiger Zitronenkuchen für die Kastenform.
