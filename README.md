@@ -1,6 +1,6 @@
 # Recipes Repository
 
-Welcome to the Recipes Repository! This project contains a collection of delicious recipes for various cakes.
+Welcome to my Recipes Repository! This project contains a collection of delicious recipes for various cakes.
 
 ## Features
 
