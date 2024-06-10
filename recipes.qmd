@@ -33,8 +33,6 @@ Welcome to the Recipes Repository! This repository contains a collection of deli
 
 4.  Für die Glasur 2-3 EL Zitronensaft und 200 g Puderzucker zu einer dicken, glatten Masse verrühren und über den Zitronenkuchen verteilen - fertig ist ein saftiger Zitronenkuchen für die Kastenform.
 
-<<<<<<< HEAD
-_____
 
 This is my favorite recipe.
 
@@ -67,6 +65,4 @@ This is my favorite recipe.
 Wenn Kuchen mit Eischnee ein wenig steht, bilden sich auf dem Eischnee kleine goldene Zuckertröpfchen - eine ganz natürliche Reaktion und ein hübscher Effekt. Der Käsekuchen mit Baiser wird deshalb auch Tränchenkuchen genannt. Mit einem in heißes Wasser getauchtem Messer lässt sich der Käsekuchen mit Baiser am besten schneiden.
 
 
-=======
-Hallo, schöne Website
->>>>>>> 122dfb5f8a1a2fe33b3271267b829e0ceedc654f
+
